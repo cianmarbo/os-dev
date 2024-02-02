@@ -1,2 +1,6 @@
 .DS_Store
 build
+makefiletest
+bochs_config
+debug.sh
+test
